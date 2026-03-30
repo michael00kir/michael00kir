@@ -65,9 +65,4 @@ I develop and maintain productivity applications live on the **Apple App Store**
 * **Location:** London, UK
 * **Alma Mater:** University of Westminster
 * **GitHub:** [@michael00kir](https://github.com/michael00kir)
-
----
-
-### 📊 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael00kir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael00kir&layout=compact&theme=radical)
+* **E-mail** michael.kir@icloud.com
